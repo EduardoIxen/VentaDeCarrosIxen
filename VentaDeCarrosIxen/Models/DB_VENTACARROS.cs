@@ -17,3 +17,9 @@ namespace VentaDeCarrosIxen.Models
 
         }
 }
+/*
+Enable-migrations
+ADD-MIGRATION
+db
+update-database
+*/
